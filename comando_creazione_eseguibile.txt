@@ -1,3 +1,0 @@
- pyinstaller --onefile --noconsole --icon=icona.ico --name "Password Manager" password_manager.py
-
- Eseguilo dalla cartella C:\users\ricca\desktop\pwsecurity. L'exe lo trovi in dist\Password Manager.exe.
